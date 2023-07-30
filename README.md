@@ -1,16 +1,11 @@
-# Android-Attendance-App
+# Student-Monitoring-App
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
 It is a system developed in android studio through which
 faculty can register the number of students in a particular
-class then register the number of subjects in that class and can mark the attendance of the students.
+class then register the number of subjects in that class and can mark the attendance and marks of the students.
 
-### Screenshots
-<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578215423.png" width="200"> &nbsp;
-<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/123.JPG" width="200"> &nbsp; 
-<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578216103.png" width="200"> &nbsp; 
-<img src="https://github.com/AtomKapoor/Android-Attendance-App/blob/master/Screenshots/Screenshot_1578215610.png" width="200">
 <h2>Features Available</h2>
 <h3>Admin Module</h3>
 <ul>
@@ -20,11 +15,12 @@ class then register the number of subjects in that class and can mark the attend
  	<li>View Student.</li>
  	<li>View Teacher.</li>
  	<li>View Student Attendance.</li>
+ <li>View Student Marks</li>
 </ul>
 <h3>Teacher Module</h3>
 <ul>
- 	<li>Take attendance and keep them class wise</li>
- 	<li>Add New student. View each student’s attendance separately</li>
+ 	<li>Take attendance and marks and keep them class wise</li>
+ 	<li>Add New student. View each student’s attendance and marks separately</li>
  	<li>Edit Student/Attendance later</li>
  	<li>Simple  designed interface</li>
 </ul>
@@ -37,7 +33,7 @@ class then register the number of subjects in that class and can mark the attend
 </ul>
 <h3>Admin Login</h3>
 <ul>
- 	<li>Username :- admin</li>
- 	<li>Password :- admin123</li>
+ 	<li>Username :- nitesh</li>
+ 	<li>Password :- nitesh123</li>
 </ul>
 &nbsp;
