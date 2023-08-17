@@ -1,39 +1,58 @@
-# Student-Monitoring-App
+# Student Monitoring App
 
-Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
+The Student Monitoring App is an Android application developed by Nitesh JK that aims to simplify the management of student attendance and marks. The app provides separate modules for administrators and teachers, allowing efficient monitoring and recording of student-related data.
 
-It is a system developed in android studio through which
-faculty can register the number of students in a particular
-class then register the number of subjects in that class and can mark the attendance and marks of the students.
+## Features
 
-<h2>Features Available</h2>
-<h3>Admin Module</h3>
-<ul>
- 	<li>Add Student.</li>
- 	<li>Add Faculty.</li>
- 	<li>Add Teacher.</li>
- 	<li>View Student.</li>
- 	<li>View Teacher.</li>
- 	<li>View Student Attendance.</li>
- <li>View Student Marks</li>
-</ul>
-<h3>Teacher Module</h3>
-<ul>
- 	<li>Take attendance and marks and keep them class wise</li>
- 	<li>Add New student. View each student’s attendance and marks separately</li>
- 	<li>Edit Student/Attendance later</li>
- 	<li>Simple  designed interface</li>
-</ul>
-<h3 id="requirement" class="notes">Software Requirement</h3>
-<ul>
- 	<li>Android Studio</li>
- 	<li>Latest Version</li>
- 	<li>Internet Connection</li>
- 	<li>Java</li>
-</ul>
-<h3>Admin Login</h3>
-<ul>
- 	<li>Username :- nitesh</li>
- 	<li>Password :- nitesh123</li>
-</ul>
-&nbsp;
+### Admin Module
+- Add new students, faculty members, and teachers to the system.
+- View student details and teacher information.
+- Monitor student attendance records.
+- Track student performance through marks.
+
+### Teacher Module
+- Record attendance and marks for each class.
+- Add new students to the system.
+- Access individual student attendance and marks.
+- Edit student information and attendance/marks data.
+
+## Getting Started
+
+These instructions will guide you through the process of setting up and using the Student Monitoring App on your machine.
+
+### Prerequisites
+- Android Studio (latest version) installed.
+- Stable internet connection.
+- Proficiency in Java programming.
+
+### Installation
+1. Clone this repository to your local machine.
+2. Open the project in Android Studio.
+3. Build and run the application on an Android emulator or a physical device.
+
+## Usage
+
+### Admin Module
+1. Log in using the following credentials:
+   - Username: nitesh
+   - Password: nitesh123
+2. Use the admin module to add students, faculty, and teachers.
+3. Monitor student attendance and view marks.
+
+### Teacher Module
+1. Log in using your registered credentials.
+2. Record attendance and marks for each class.
+3. Add new students to the system if required.
+4. Edit student information and attendance/marks data.
+
+## Contributing
+
+Contributions to the Student Monitoring App are welcome. If you have suggestions for improvements, please fork this repository and create a pull request.
+
+## Contact
+
+For technical support or inquiries, please contact Nitesh JK at nitesh@example.com.
+
+---
+
+Developed by Nitesh JK
